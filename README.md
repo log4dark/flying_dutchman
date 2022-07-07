@@ -1,2 +1,3 @@
-# flying_dutchman
-Java &amp; Spring Code Piece
+# Java & Spring Code Piece
+Drop in Programming  
+...
